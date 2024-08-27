@@ -1,3 +1,6 @@
+// TASK 5 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+// 5. arrey ichidagi raqamlar yeg’indisi juft yoki toq 
+
 const isSumEvenOdd = (sum) => {
     if (sum % 2 == 0) {
         return `${sum} soni juft`;
